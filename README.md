@@ -2,7 +2,7 @@
 
 I am Daria. 
 
-I am interested in cyber security, psychology, blockchain and programming.
+I am interested in personal data protection, psychology, blockchain and programming.
 
 I like to combine all of those when I create things.
 <!--
