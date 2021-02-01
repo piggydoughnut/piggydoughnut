@@ -2,9 +2,8 @@
 
 I am Daria. 
 
-I am interested in data privacy, psychology, design, blockchain and programming.
+I am interested in data privacy, psychology, design and blockchain.
 
-I like to combine all of those when I create things.
 <!--
 **piggydoughnut/piggydoughnut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
