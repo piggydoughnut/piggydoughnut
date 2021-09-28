@@ -1,0 +1,9 @@
+# 27th September 2021
+
+Synched newest changes from dimxy/bitgo
+
+Working on simplifying connection to peers, exposing a connect function from bitgo.
+
+Catching not connected errors and displaying feedback to users
+
+Chat with cryptosammy, heped with insight API and created a token for her
