@@ -2,6 +2,7 @@
 
 I am Daria. 
 
+I write code and love working on designs and human interactions.
 
 <!--
 
